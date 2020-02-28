@@ -30,8 +30,7 @@ namespace assign12a
                if(Physics.Raycast(ray, out g_obj,100))
                 {
                     print(g_obj.collider.name);
-                }
-                
+                }                
             }
         }
     }

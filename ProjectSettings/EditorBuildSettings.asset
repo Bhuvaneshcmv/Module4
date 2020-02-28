@@ -11,10 +11,16 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/assign8/solarSystem.unity
     guid: ec6cdc0ecc5c53c439c1f5285e06463b
-  - enabled: 1
+  - enabled: 0
     path: Assets/assign10/breakoutMainMenu.unity
     guid: 96eff4a2e370c904a87edf7e32c1aa02
-  - enabled: 1
+  - enabled: 0
     path: Assets/assign10/breakout.unity
     guid: 94180860d62e7fb46949fccc415392be
+  - enabled: 1
+    path: Assets/assignSpaceShooter/spaceShooterGame.unity
+    guid: ef981dd4bed1e9f4bb06f08c6c557e92
+  - enabled: 1
+    path: Assets/assignSpaceShooter/GameOver.unity
+    guid: 5f79a9553aa84be43b58a6186a7ea2df
   m_configObjects: {}
