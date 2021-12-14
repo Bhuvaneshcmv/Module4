@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7a7d4a7-85c5-48bc-aea3-705009fcdefc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/RTS_Scifi_game_assets/Models/Turrets/Turret_v1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/RTS_Scifi_game_assets/Models/Turrets/Turret_v1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RTS_Scifi_game_assets/Models/Vehicle/Vehicle_v1/Vehicle_v1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/RTS_Scifi_game_assets/Models/Vehicle/Vehicle_v1/Vehicle_v1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign10/breakout.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/assign10/breakout.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign10/c_ballScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/assign10/c_ballScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/BroadleafBark.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/BroadleafBark.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/BroadleafBark_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/BroadleafBark_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/Billboard.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/Billboard.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD0.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD0/Branches_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD0/Branches_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD0/Branches_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD0/Branches_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD0/FacingLeaves_4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD0/FacingLeaves_4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD0/Fronds_2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD0/Fronds_2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD0/Leaves_3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD0/Leaves_3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD1/Branches_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD1/Branches_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD1/Branches_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD1/Branches_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD1/FacingLeaves_4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD1/FacingLeaves_4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD1/Fronds_2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD1/Fronds_2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD1/Leaves_3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD1/Leaves_3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD2/Branches_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD2/Branches_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD2/Branches_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD2/Branches_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD2/FacingLeaves_4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD2/FacingLeaves_4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD2/Fronds_2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD2/Fronds_2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD2/Leaves_3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop Materials/LOD2/Leaves_3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop.spm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop.spm.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop_Atlas.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop_Atlas.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop_Atlas_Billboards.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop_Atlas_Billboards.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop_Atlas_Billboards_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop_Atlas_Billboards_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop_Atlas_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop_Atlas_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop_Atlas_Specular.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Desktop_Atlas_Specular.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile Materials/Billboard.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile Materials/Billboard.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile Materials/LOD0.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile Materials/LOD0/Branches_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile Materials/LOD0/Branches_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile Materials/LOD0/Leaves_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile Materials/LOD0/Leaves_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile Materials/LOD1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile Materials/LOD1/Branches_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile Materials/LOD1/Branches_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile Materials/LOD1/Leaves_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile Materials/LOD1/Leaves_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile Materials/LOD2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile Materials/LOD2/Branches_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile Materials/LOD2/Branches_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile Materials/LOD2/Leaves_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile Materials/LOD2/Leaves_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile.spm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile.spm.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile_Atlas.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile_Atlas.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile_Atlas_Billboards.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile_Atlas_Billboards.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile_Atlas_Billboards_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile_Atlas_Billboards_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile_Atlas_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile_Atlas_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile_Atlas_Specular.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaf_Mobile_Atlas_Specular.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaves.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaves.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaves_Card_Desktop.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaves_Card_Desktop.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaves_Card_Desktop_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaves_Card_Desktop_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaves_Card_Desktop_Spec.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaves_Card_Desktop_Spec.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaves_Desktop.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaves_Desktop.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaves_Desktop_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaves_Desktop_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaves_Desktop_Spec.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaves_Desktop_Spec.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaves_Mobile.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaves_Mobile.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaves_Mobile_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaves_Mobile_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaves_Mobile_Spec.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Broadleaves_Mobile_Spec.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Cap_01.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Cap_01.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Cap_01_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Cap_01_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Cap_02.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Cap_02.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Cap_02_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Cap_02_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/ClippedFrond.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/ClippedFrond.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/ClippedFrond_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/ClippedFrond_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/ConiferBark.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/ConiferBark.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/ConiferBark_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/ConiferBark_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/Billboard.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/Billboard.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/LOD0.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/LOD0/Branches_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/LOD0/Branches_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/LOD0/Branches_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/LOD0/Branches_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/LOD0/Fronds_2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/LOD0/Fronds_2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/LOD0/Leaves_3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/LOD0/Leaves_3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/LOD1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/LOD1/Branches_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/LOD1/Branches_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/LOD1/Branches_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/LOD1/Branches_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/LOD1/Fronds_2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/LOD1/Fronds_2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/LOD1/Leaves_3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/LOD1/Leaves_3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/LOD2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/LOD2/Branches_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/LOD2/Branches_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/LOD2/Branches_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/LOD2/Branches_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/LOD2/Leaves_3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop Materials/LOD2/Leaves_3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop.spm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop.spm.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop_Atlas.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop_Atlas.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop_Atlas_Billboards.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop_Atlas_Billboards.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop_Atlas_Billboards_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop_Atlas_Billboards_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop_Atlas_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop_Atlas_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop_Atlas_Specular.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Desktop_Atlas_Specular.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Needles_Dekstop_Spec.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Needles_Dekstop_Spec.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Needles_Desktop.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Needles_Desktop.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Needles_Desktop_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Conifer_Needles_Desktop_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/IDV_EULA.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/IDV_EULA.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Materials/diamondMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Materials/diamondMat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/PalmBark.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/PalmBark.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/PalmBark_Detail.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/PalmBark_Detail.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/PalmBark_Detail_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/PalmBark_Detail_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/PalmBark_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/PalmBark_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/PalmFrond.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/PalmFrond.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/PalmFrond_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/PalmFrond_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/PalmFrond_Spec.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/PalmFrond_Spec.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop Materials/Billboard.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop Materials/Billboard.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop Materials/LOD0.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop Materials/LOD0/Branches_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop Materials/LOD0/Branches_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop Materials/LOD0/Branches_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop Materials/LOD0/Branches_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop Materials/LOD0/Fronds_2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop Materials/LOD0/Fronds_2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop Materials/LOD0/Leaves_3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop Materials/LOD0/Leaves_3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop Materials/LOD1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop Materials/LOD1/Branches_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop Materials/LOD1/Branches_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop Materials/LOD1/Fronds_2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop Materials/LOD1/Fronds_2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop Materials/LOD1/Leaves_3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop Materials/LOD1/Leaves_3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop Materials/LOD2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop Materials/LOD2/Branches_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop Materials/LOD2/Branches_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop Materials/LOD2/Fronds_2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop Materials/LOD2/Fronds_2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop.spm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop.spm.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop_Atlas.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop_Atlas.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop_Atlas_Billboards.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop_Atlas_Billboards.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop_Atlas_Billboards_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop_Atlas_Billboards_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop_Atlas_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop_Atlas_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop_Atlas_Specular.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/Free_SpeedTrees/Palm_Desktop_Atlas_Specular.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/build terrain.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/build terrain/Grass brush.brush" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/build terrain/Grass brush.brush.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/build terrain/Rock Layer.terrainlayer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/build terrain/Rock Layer.terrainlayer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/build terrain/Rock brush.brush" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/build terrain/Rock brush.brush.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/build terrain/Terrain Demo.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/build terrain/Terrain Demo.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/build terrain/TerrainBuild.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/build terrain/TerrainBuild.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/build terrain/grass textur.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/build terrain/grass textur.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/build terrain/rock texture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/build terrain/rock texture.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/build terrain/terrain layer grass.terrainlayer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/build terrain/terrain layer grass.terrainlayer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/build terrain/water texture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/build terrain/water texture.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/skyboxReset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/skyboxReset/New Material.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/skyboxReset/New Material.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/skyboxReset/Sky0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/skyboxReset/Sky0.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/skyboxReset/sky.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/skyboxReset/sky.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/skyboxReset/sky1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/skyboxReset/sky1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/skyboxReset/sky2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/skyboxReset/sky2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/skyboxReset/sky3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/skyboxReset/sky3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/skyboxReset/sky4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/skyboxReset/sky4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/skyboxReset/sky5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/skyboxReset/sky5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/skyboxReset/skyboxDemo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/skyboxReset/skyboxDemo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/skyboxReset/skyboxDemo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/skyboxReset/skyboxDemo/LightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/skyboxReset/skyboxDemo/LightingData.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/skyboxReset/skyboxDemo/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign11Norton/assignSkybox/skyboxReset/skyboxDemo/ReflectionProbe-0.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign14FPSGame/FPS Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/assign14FPSGame/FPS Game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign14FPSGame/c_enemyScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/assign14FPSGame/c_enemyScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign14FPSGame/c_playerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/assign14FPSGame/c_playerMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign14FPSGame/c_turret1Script.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/assign14FPSGame/c_turret1Script.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign14FPSGame/c_turret2Script.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/assign14FPSGame/c_turret2Script.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign14FPSGame/c_turret3Script.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/assign14FPSGame/c_turret3Script.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign14FPSGame/c_turret4Script.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/assign14FPSGame/c_turret4Script.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/assign14FPSGame/c_waypointScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/assign14FPSGame/c_waypointScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hKglp3HXiivD2t7XlyccbDc4bs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7a7d4a7-85c5-48bc-aea3-705009fcdefc" name="Default Changelist" comment="" />
+      <created>1599765352909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599765352909</updated>
+      <workItem from="1599765365506" duration="360000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Bhuvanesh CMV\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Bhuvanesh CMV\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Module4.273430395.00" t="ExcludeRecursive" />
+    <e p="F:\Unity AID\Module4" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="assign10" t="Include">
+          <e p="c_ballScript.cs" t="Include" />
+          <e p="c_brickScript.cs" t="Include" />
+          <e p="c_bricksPrefabScript.cs" t="Include" />
+          <e p="c_gameManager.cs" t="Include" />
+          <e p="c_inGameScript.cs" t="Include" />
+          <e p="c_padScript.cs" t="Include" />
+        </e>
+        <e p="assign12ClickFinder" t="Include">
+          <e p="c_moveObjectWithClicks.cs" t="Include" />
+          <e p="c_selectObjectScript.cs" t="Include" />
+        </e>
+        <e p="assign13" t="Include">
+          <e p="c_CharacterControl.cs" t="Include" />
+        </e>
+        <e p="assign14FPSGame" t="Include">
+          <e p="c_buildingScript.cs" t="Include" />
+          <e p="c_enemyScript.cs" t="Include" />
+          <e p="c_gunScript.cs" t="Include" />
+          <e p="c_playerMovement.cs" t="Include" />
+          <e p="c_turret1Script.cs" t="Include" />
+          <e p="c_turret2Script.cs" t="Include" />
+          <e p="c_turret3Script.cs" t="Include" />
+          <e p="c_turret4Script.cs" t="Include" />
+          <e p="c_waypointScript.cs" t="Include" />
+        </e>
+        <e p="assign3" t="Include">
+          <e p="c_Cube.cs" t="Include" />
+        </e>
+        <e p="assign4a" t="Include">
+          <e p="c_cubeScript.cs" t="Include" />
+          <e p="c_extraScript.cs" t="Include" />
+        </e>
+        <e p="assign4b" t="Include">
+          <e p="c_cubeScript2.cs" t="Include" />
+          <e p="c_myExScript.cs" t="Include" />
+        </e>
+        <e p="assign5a" t="Include">
+          <e p="c_cubeScript1.cs" t="Include" />
+          <e p="c_sphereScript.cs" t="Include" />
+        </e>
+        <e p="assign5b" t="Include">
+          <e p="c_earthScript.cs" t="Include" />
+          <e p="c_invisibleObjectScript.cs" t="Include" />
+          <e p="c_moonScript.cs" t="Include" />
+        </e>
+        <e p="assign5c" t="Include">
+          <e p="c_spriteManager.cs" t="Include" />
+        </e>
+        <e p="assign7" t="Include">
+          <e p="c_explosionScript.cs" t="Include" />
+        </e>
+        <e p="assign8" t="Include">
+          <e p="c_screenSwitchScript1.cs" t="Include" />
+        </e>
+        <e p="assign9a" t="Include">
+          <e p="c_anotherCubeScript.cs" t="Include" />
+          <e p="c_playerCubeScript.cs" t="Include" />
+        </e>
+        <e p="assignSpaceShooter" t="Include">
+          <e p="c_AsteroidManager.cs" t="Include" />
+          <e p="c_asteroidScript.cs" t="Include" />
+          <e p="c_enemyManager.cs" t="Include" />
+          <e p="c_enemyScript.cs" t="Include" />
+          <e p="c_playershipScript.cs" t="Include" />
+        </e>
+        <e p="asssgn9b" t="Include">
+          <e p="c_cameraScript.cs" t="Include" />
+          <e p="c_prefabScript.cs" t="Include" />
+          <e p="c_wallScript.cs" t="Include" />
+        </e>
+        <e p="c_walk.cs" t="Include" />
+        <e p="norton1" t="Include">
+          <e p="c_nortonScript.cs" t="Include" />
+        </e>
+        <e p="nortonFInal" t="Include">
+          <e p="c_nortonScript.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Module4.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
